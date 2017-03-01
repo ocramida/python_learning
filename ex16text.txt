@@ -1,0 +1,12 @@
+this is my review of exercise 16
+I'm trying to build muscle memory and learn from repetition
+I hope this works. I WANT to lear Python
+Hi one
+Hi two
+Hi three
+Dogstrying again # got error before newline after dog. Rerun program started where error left off and ran strings together.
+for practice
+have to keep going
+third time is a charm
+fourth time
+fifth?
